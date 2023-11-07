@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'djmoney',
     'market_place',
     'booking',
+    'rangefilter'
 ]
 
 MIDDLEWARE = [
